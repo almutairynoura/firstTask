@@ -1,8 +1,7 @@
-#Robot Arm Sliders
-محركات اذرعة روبوت المصارعه 
-كل محرك يجب ان يكون له زاوية بمقدار 0 - 180 
-يستطيع المسنخدم ان يدخل قيمة كل محرك
-في هذا الكود تمت كتابة كود ال css , jsو html في نفس الصفحة 
-اذا ادخل المستخدم قيم المحركات يتم الرسالها للداتا بيس وتخزينها عبر كود ال php
-
-
+#Robot Arm Sliders,
+a wrestling robot arm
+in this code there will be five sliders
+every slider have values from 0 to 180 
+the interface created by HTML, Css, Js languages
+the user will enter each slider value
+then it will be sent and  stored in database  through php code 
